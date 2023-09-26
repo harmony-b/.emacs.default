@@ -1,0 +1,3 @@
+* emacs configuration
+
+This is an emacs configuration I am currently using in macOS.
